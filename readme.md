@@ -1,4 +1,4 @@
-# 华电在线视频课程bot
+# 华电在线刷视频课程bot
 
 ## !!!!! 免责声明: 本人不负责使用本脚本产生的任何后果
 
@@ -7,7 +7,7 @@
 http://school.huadianline.com/course/watch/193_12792.html
 复制课程最后一节url 比如:
 http://school.huadianline.com/course/watch/193_12822.html
-其中, 193 是课程ID, 12792, 12822 是视频ID.
+其中, 193 是**课程ID**, 12792, 12822 是**视频ID**.
 2. 脚本使用方法:
 安装python
 安装requests包, pip install requests
