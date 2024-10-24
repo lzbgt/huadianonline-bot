@@ -22,4 +22,4 @@ http://school.huadianline.com/course/watch/193_12822.html
 
 运行:
 
-python bot.py 登录用户名 登录用户密码 课程ID 视频ID
+python bot.py 登录用户名 登录用户密码 课程ID 视频ID_s  视频ID_e
